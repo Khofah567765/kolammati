@@ -1,4 +1,4 @@
-name: Kora Live Scraper (Public Trigger)
+name: alamak
 
 on:
   schedule:
